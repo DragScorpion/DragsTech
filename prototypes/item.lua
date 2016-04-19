@@ -1,13 +1,13 @@
 data:extend({
 {
-	type = "item",
-	name = "crusher",
-	icon = "__DragTech__/graphics/icon/icon_crusher_.png",
-	flags = {"goes-to-quickbar"},
-	subgroup = "crusher",
-	order = "a[items]-b[crusher]",
-	place_result = "crusher",
-	stack_size = 10
-},
-	
-})
+    type = "item",
+    name = "Chest-MK-II",
+    icon = "__base__/graphics/icons/steel-chest.png",
+    flags = {"goes-to-quickbar"},
+    subgroup = "storage",
+    order = "h[DragTech]-b[Chest-MK-II]",
+    place_result = "Chest-MK-II",
+    stack_size = 500
+  }
+  
+  })

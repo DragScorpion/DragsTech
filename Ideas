@@ -1,8 +1,27 @@
 Holzverarbeitung
  -Baumzucht
-  	-Baumfarm
+  	-Baumfarm (wachstum)
+  		-klein (3x3)
+  		-mittel (5x5)
+  		-groß (10x10)
+
+  	-Sphere (anzeige) kann alles anbauen Bäume und Früchte
+  		-klein (3x3)
+  		-mittel (5x5)
+  		-groß (7x7)
+
+	-Farm (anzeige) kann nur Früchte anbauen
+		-klein (3x3)
+		-mittel (5x5)
+		-groß (7x7) 
+
  -Setzlingzucht
  	- Verschiedende Baum Arten
+
+-Früchte
+	-Corn
+	-Rape
+
  -Sägewerk 
   	-Bretter
   	-Sägespäne

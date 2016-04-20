@@ -2,7 +2,7 @@ data:extend({
   {
       type = "technology",
       name = "StorageTech",
-      icon = "__DragTech_1.0.1__/graphics/sience/chest.png",
+      icon = "__DragTech__/graphics/sience/chest.png",
       effects =
       {
         {

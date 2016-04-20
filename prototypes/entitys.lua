@@ -3,7 +3,7 @@ data:extend({
 {
     type = "container",
     name = "CopperChest",
-    icon = "__DragTech_1.0.1__/graphics/icons/steel-chest.png",
+    icon = "__DragTech__/graphics/icons/CopperChest.png",
     flags = {"placeable-neutral", "player-creation"},
     minable = {mining_time = 0.5, result = "CopperChest"},
     max_health = 200,
@@ -24,7 +24,7 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     picture =
     {
-      filename = "__dragtech_0.1.0__/graphics/entity/steel-chest/steel-chest.png",
+      filename = "__DragTech__/graphics/entity/steel-chest/steel-chest.png",
       priority = "extra-high",
       width = 48,
       height = 34,

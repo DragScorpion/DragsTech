@@ -7,7 +7,7 @@ data:extend({
     subgroup = "storage",
     order = "h[DragTech]-b[CopperChest]",
     place_result = "CopperChest",
-    stack_size = 500
+    stack_size = 50
   }
   
   })

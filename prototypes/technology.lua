@@ -2,29 +2,23 @@ data:extend({
   {
       type = "technology",
       name = "StorageTech",
-      icon = "__DragTech_1.0.1__/graphics/sience/copper-chest.png",
+      icon = "__DragTech_1.0.1__/graphics/sience/chest.png",
       effects =
       {
         {
             type = "unlock-recipe",
-            recipe = "bomber"
-        },
-        {
-            type = "unlock-recipe",
-            recipe = "bomb"
+            recipe = "CopperChest"
         }
       },
-      prerequisites = {"flying"},
       unit =
       {
         count = 10,
         ingredients =
         {
-          {"science-pack-1", 2},
-          {"science-pack-2", 1},
-          {"science-pack-3", 1}
+          {"science-pack-1", 10}
         },
-        time = 20
-      }
+        time = 5
+      },
+	  order= "c-a"
   }
 })

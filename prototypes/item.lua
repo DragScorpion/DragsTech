@@ -1,12 +1,12 @@
 data:extend({
 {
     type = "item",
-    name = "Chest-MK-II",
-    icon = "__base__/graphics/icons/steel-chest.png",
+    name = "CopperChest",
+    icon = "__DragTech_1.0.1__/graphics/icons/CopperChest.png",
     flags = {"goes-to-quickbar"},
     subgroup = "storage",
-    order = "h[DragTech]-b[Chest-MK-II]",
-    place_result = "Chest-MK-II",
+    order = "h[DragTech]-b[CopperChest]",
+    place_result = "CopperChest",
     stack_size = 500
   }
   

@@ -2,10 +2,10 @@ data:extend({
 
 {
     type = "container",
-    name = "Chest-MK-II",
-    icon = "__base__/graphics/icons/steel-chest.png",
+    name = "CopperChest",
+    icon = "__DragTech_1.0.1__/graphics/icons/steel-chest.png",
     flags = {"placeable-neutral", "player-creation"},
-    minable = {mining_time = 0.5, result = "Chest-MK-II"},
+    minable = {mining_time = 0.5, result = "CopperChest"},
     max_health = 1000,
     corpse = "small-remnants",
     open_sound = { filename = "__base__/sound/metallic-chest-open.ogg", volume=0.65 },
@@ -24,7 +24,7 @@ data:extend({
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     picture =
     {
-      filename = "__base__/graphics/entity/steel-chest/steel-chest.png",
+      filename = "__dragtech_0.1.0__/graphics/entity/steel-chest/steel-chest.png",
       priority = "extra-high",
       width = 48,
       height = 34,

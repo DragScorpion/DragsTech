@@ -2,9 +2,9 @@ data:extend({
 
 {
     type = "recipe",
-    name = "Chest-MK-II",
-    enabled = true,
-    ingredients = {{"iron-plate", 1}},
-    result = "Chest-MK-II"
+    name = "CopperChest",
+    enabled = false,
+    ingredients = {{"copper-plate", 8}},
+    result = "CopperChest"
   }
  })

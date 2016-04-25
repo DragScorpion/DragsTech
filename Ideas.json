@@ -20,29 +20,132 @@ Kabel
 	Vergoldetes Silberkabel
 	Glasfaserkabel
 	
+Zahnräder
+
+Stangen
+	Eisenstange
+	Stahlträger
 	
 
+Platten
+	Eisenplatten
+	Kupferplatten
+	Zinnplatten
+	Bleiplatten
+	Alumuniumplatten
+	Stahlplatten
+	Silberplatten
+	Goldplatten
+	Nickelplatten
+	Zinkplatten
+	Kobaltplatten
+	Kunstoffplatten
+	Bronzeplatten
+	Messingplatten
+	Elektrumplatte
+	
+
+Schaltkreise
+	Elektronischer Schaltkreis
+	Erweiterter elektronischer Schaltkreis
+	Prozessoreinkeit
+
+Wissenschaftspakete
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+
+Sprengstoffe
+	Sprengstoff
+	
+Batterien
+	Batterie
+	
+Flüssigkeitsverarbeitung
+	Öl
+		Grundlegende Ölverarbeitung
+			Schweröl (3)
+			Leichtöl (3)
+			Petroleum (4)
+		Fortgeschrittene Ölverarbeitung
+			Schweröl (1)
+			Leichtöl (4.5)
+			Petroleum (5.5)
+			
+	Wasser
+
+Chemie
+	Schwefel
+	Schwefelsäure
 ------------------------------------------------------------------------------
 
 
 ==============================================================================
 Erze / Ores
 ==============================================================================
-
+Erze
+	Eisen
+	Kupfer
+	Stein
+	Kohle
+	Zinn
+	Blei
+	Bauxit
+	Silber
+	Gold
+	Quartz
+	Gems
+	Nickel
+	Zink
+	Kobalt
+	
+Flüssigkeiten
+	Wasser
+	Öl
 ------------------------------------------------------------------------------
 
 
 ==============================================================================
 Energie / Energy
 ==============================================================================
-
+Strommasten
+	Kleiner Strommast (5x5 / 7,5 m)
+	Mittelgroßer Strommast (7x7 / 9 m)
+	Großer Strommast (4x4 / 30 m)
+	
+Umspannwerk
+	Umspannwerk (14x14 / 14 m)
+	
+Heizkessel
+	Heizkessel (Eff. 50% / 390 kW)
+	
+Dampfmaschinen
+	Dampfmaschine (510 kW)
+	
+Solar
+	Solarmodul (60 kW)
+	
+Akkumulator
+	Einfacher Akkumulator (5.0 MJ / 300 kW)
 ------------------------------------------------------------------------------
 
 
 ==============================================================================
 Abbau / Mining
 ==============================================================================
-Steinbruch Stufe I - V
+Förderer
+	Befeuerter Erzförderer
+	Elektrischer Erzförderer
+	Steinbruch Stufe I - V
+	
+Pumpen
+	Offshore-Pumpe
+	Rohöl-Förderpumpe
 
 ------------------------------------------------------------------------------
 
@@ -100,7 +203,53 @@ Minisplitter
 ==============================================================================
 Logistik / Logistic
 ==============================================================================
+Bänder
+	Fließband
+	Schnelles Fließband
+	Express-Fließband
+	
+Unterirdisches Fließband
+Schnelles unterirdisches Fließband
+Unterirdisches Express-Fließband
 
+Teilerfließband
+Schnelles Teilerfließband
+Express-Teilerfließband
+
+Rohre
+	Rohr
+
+	Unterirdisches Rohr
+	
+Lager
+	Holzkiste
+	Eisenkiste
+	Stahlkiste
+	Intelligente Kiste
+	
+	Aktive Anbieterkiste
+	Passive Anbieterkiste
+	Anforderungskiste
+	Lagerkiste
+	
+Flüssigkeitslager
+	Lagertank
+	
+Greifarme
+	Befeuerter Greifarm
+	Greifarm
+	Langer Greifarm
+	Schneller Greifarm
+	Intelligenter Greifarm
+	
+Roboter
+	Logistikroboter
+	Bauroboter
+
+Straßen / Deko
+	Ziegelstein
+	Beton
+	
 ------------------------------------------------------------------------------
 
 
@@ -121,6 +270,34 @@ Fahrzeuge / Vehicle
 ==============================================================================
 Waffen / Weapons
 ==============================================================================
+Handfeuerwaffen
+	Pistole (15 m / 6 + 9.6)
+	Maschinengewehr (15 m / 15 + 24)
+	Schrotflinte (20 m / 1 + 1.6)
+	Kampfschrotflinte (20 m / 2 + 3.2 / 20%)
+	Raketenwerfer (22 m / 1 + 1.3)
+	Flammenwerfer (15 m / 30)
+
+Munition
+	Normale Munition (2 + 2.4 / 10)
+	Panzerbrechende Munition (5 + 6 / 10)
+	Schrotpatrone (12 x 4 + 4.8 / 10)
+	Panzerbrechende Schrotpatrone (16 x 6 + 7.2 / 10)
+	Kanonengeschoss (30 m / 150 / 50)
+	Explosives Kanonengeschoss (30 / 30 / 80)
+	Rakete (1000 / 60 + 48)
+	Explosive Rakete (1000 / 6.5 / 40 + 32)
+	Flammenwerferbrennstoff (100)
+	
+
+	
+Geschütztürme
+	Geschützturm (17 m / 10 + 16 / 100%)
+	Laserturm (25 m / 20 + 24 / 3 + 4.8)
+
+Radarsysteme
+	Radar (300 kW)
+
 Magazin in verschiedenen größen
 Munition mit verschiedenen schaden
 ------------------------------------------------------------------------------
@@ -129,6 +306,19 @@ Munition mit verschiedenen schaden
 ==============================================================================
 Automation / Automatization
 ==============================================================================
+Maschinen
+	Montagemaschine 1 (90 kW / 0.5)
+	Montagemaschine 2 (150 kW / 0.75)
+	Montagemaschine 3 (210 kW / 1.25)
+	
+Ölverarbeitung
+	Ölraffinerie (420 kW / 1.0)
+	
+Chemie
+	Chemiefabrik (210 kW / 1.25)
+	
+Labore
+	Lobor (60 kW)
 
 ------------------------------------------------------------------------------
 

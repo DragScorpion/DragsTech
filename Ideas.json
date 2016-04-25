@@ -21,6 +21,12 @@ Kabel
 	Glasfaserkabel
 	
 Zahnräder
+	Eisenzahnrad
+	Zinnzahnrad
+	Zinkzahnrad
+	Aluminiumzahnrad
+	Messingzahnrad
+	
 
 Stangen
 	Eisenstange
@@ -42,8 +48,7 @@ Platten
 	Kunstoffplatten
 	Bronzeplatten
 	Messingplatten
-	Elektrumplatte
-	
+	Elektrumplatte	
 
 Schaltkreise
 	Elektronischer Schaltkreis
@@ -93,16 +98,54 @@ Erze
 	Kupfer
 	Stein
 	Kohle
-	Zinn
+	Zinn [Schwarzweiß-Modus]
 	Blei
 	Bauxit
 	Silber
 	Gold
 	Quartz
-	Gems
+	Rutil
+	Edelsteine
+		Diamant (weiß)
+		Rubin (rot)
+		Bernstein (orange)
+		Pyrit (golden)
+		Jade (hellgrün)
+		Peridot (olivengrün)
+		Smaragd (grün)
+		Azurit (dunkelblau)
+		Amethyst (lila)
+		Lapislazuli (blau)
+		Obsidian (schwarz)
+		Saphir (mehrfarbig / blau)
+		Topas (orange)
+		
 	Nickel
 	Zink
 	Kobalt
+	Seltene Erden
+		Yttriumoxid
+		Gadolinit
+		Cerit
+		Cer
+		Samarskit
+		Lanthan
+		Didym
+		Erbium
+		Terbium
+		Ytterbium
+		Samarium
+		Scandium
+		Thulium
+		Holmium
+		Dysprosium
+		Gadolinium
+		Praseodym
+		Neodym
+		Europium
+		Lutetium
+		Promethium
+	Meteorgestein
 	
 Flüssigkeiten
 	Wasser
